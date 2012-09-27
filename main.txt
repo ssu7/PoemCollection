@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 The Poem about the Elephant
-Blank Line
-Blank Line
-
 
 It was six men of Indostan 
     To learning much inclined, 
@@ -16,3 +12,9 @@ Against his broad and sturdy side,
     At once began to bawl: “God bless! but the Elephant 
 Is very like a wall!” 
 
+The Second, feeling of the tusk, 
+    Cried, “Ho! what have we here 
+So very round and smooth and sharp? 
+    To me ’tis mighty clear 
+This wonder of an Elephant 
+    Is very like a spear !” 
